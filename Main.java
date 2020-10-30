@@ -1,5 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+     String[] names = { "Adam", "Jada", "Ava", "Alex"};
+     
+     for( int i = 0; i < names.length; i++);
+     
   }
 }
